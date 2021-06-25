@@ -1,0 +1,118 @@
+body {
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-image: url("nikhil.jfif");
+}
+
+#h2 {
+    text-align: center;
+    color: white;
+}
+
+.heading {
+    text-align: center;
+    color: white;
+}
+
+.form {
+    color: green;
+    color: white;
+}
+
+#left {
+    float: left;
+    padding: 12px;
+    margin-left: 44px;
+    padding-right: 0px;
+    margin-right: 0px;
+    color: white;
+}
+
+#right {
+    float: right;
+    padding: 16px;
+    margin-right: 51px;
+    padding-left: 0px;
+    margin-left: 0px;
+    color: white;
+}
+
+#left1 {
+    float: left;
+    padding: 57px;
+    margin-left: -241px;
+    padding-right: 0px;
+    margin-right: 0px;
+    color: white;
+}
+
+#right1 {
+    float: right;
+    padding: 65px;
+    margin-right: -259px;
+    padding-left: 0px;
+    margin-left: 0px;
+    color: white;
+}
+
+#left2 {
+    float: left;
+    padding: 101px;
+    margin-left: -286px;
+    padding-right: 0px;
+    margin-right: 0px;
+    color: white;
+}
+
+#right2 {
+    float: right;
+    padding: 111px;
+    margin-right: -309px;
+    padding-left: 0px;
+    margin-left: 0px;
+    color: white;
+}
+
+.address {
+    float: right;
+    padding: 24px;
+    margin-right: 214px;
+    padding-left: 0px;
+    margin-left: 0px;
+    color: white;
+}
+
+.pincode {
+    float: left;
+    padding: 24px;
+    margin-right: 214px;
+    padding-left: 0px;
+    margin-left: 0px;
+    color: white;
+}
+
+.container2 {
+    margin: auto;
+    width: 50%;
+    height: 158px;
+    color: white;
+}
+
+.container5 {
+    /* border: solid 2px red; */
+    margin: auto;
+    width: 37%;
+    height: 158px;
+    color: white;
+}
+
+#form_heading {
+    text-align: center;
+    color: white;
+}
+
+.form-label {
+    font-weight: 600;
+    font-size: 20px;
+}
